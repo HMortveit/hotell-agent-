@@ -23,6 +23,9 @@ python agent.py
 
 ## Eksempler på spørsmål
 - «Hvilket hotell hadde høyest belegg i juli?»
+
+  <img width="1317" height="363" alt="image" src="https://github.com/user-attachments/assets/0882e013-b34a-411e-b9ed-b53d0c50d58b" />
+
 - «Hva er gjennomsnittsprisen per romtype i Bergen?»
 - «Hvilken bookingkanal har høyest kanselleringsrate, og er det forskjell mellom byene?»
 - «Hvilket hotell har lavest gjennomsnittlig vurdering, og hva klager gjestene på?»
