@@ -28,7 +28,7 @@ python agent.py
 
 - «Hva er gjennomsnittsprisen per romtype i Bergen?»
 
-<img width="1310" height="310" alt="image" src="https://github.com/user-attachments/assets/9ac54550-68e2-4715-a01b-d3f0e8307d17" />
+  <img width="1310" height="310" alt="image" src="https://github.com/user-attachments/assets/9ac54550-68e2-4715-a01b-d3f0e8307d17" />
 
 - «Hvilken bookingkanal har høyest kanselleringsrate, og er det forskjell mellom byene?»
 - «Hvilket hotell har lavest gjennomsnittlig vurdering, og hva klager gjestene på?»
